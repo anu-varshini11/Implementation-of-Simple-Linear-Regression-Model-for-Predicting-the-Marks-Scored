@@ -73,18 +73,27 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
+![alt text](<Screenshot 2024-04-06 224412.png>)
 
-![1](https://github.com/anu-varshini11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138969827/430f95db-1320-4c65-b614-ce59c4b4242e)
+![alt text](<Screenshot 2024-04-06 224422.png>)
 
-![2](https://github.com/anu-varshini11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138969827/70cc133b-86fc-4bf4-8f08-8617d3eae4a7)
+![alt text](<Screenshot 2024-04-06 224431.png>)
 
-![3](https://github.com/anu-varshini11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138969827/d37a1b1a-c20f-45cc-a78c-80a75865052f)
+![alt text](<Screenshot 2024-04-06 224439.png>)
 
-![4](https://github.com/anu-varshini11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138969827/6357d3f1-a268-443f-8056-d6a1085818a7)
+![alt text](<Screenshot 2024-04-06 224451.png>)
 
-![5](https://github.com/anu-varshini11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138969827/cc3c2c8c-6398-4e50-84bd-deebcf1b2292)
+![alt text](<Screenshot 2024-04-06 224459.png>)
 
-![6](https://github.com/anu-varshini11/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/138969827/889f877f-4d23-4fd7-8c19-c42caefdb7c2)
+![alt text](<Screenshot 2024-04-06 224509.png>)
+
+![alt text](<Screenshot 2024-04-06 224518.png>)
+
+![alt text](<Screenshot 2024-04-06 224525.png>)
+
+![alt text](<Screenshot 2024-04-06 224530.png>)
+
+![alt text](<Screenshot 2024-04-06 224536.png>)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
